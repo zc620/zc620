@@ -70,7 +70,7 @@
 
 欢迎关注我的微信公众号，分享技术实践、学术阅读与学习笔记。
 
-<img src="qrcode_for_gh_5c9a07397555_430.png" alt="微信公众号二维码" width="160">
+<img src="qrcode_for_gh_5c9a07397555_430.jpg" alt="微信公众号二维码" width="160">
 
 *微信扫码关注*
 
