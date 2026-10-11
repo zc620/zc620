@@ -60,10 +60,19 @@
 - AI 应用开发与实验
 - 技术工具与方法积累
 
+
 ## 🔗 Connect With Me | 个人链接
 
 - **GitHub:** https://github.com/zc620
 - **CSDN Blog:** https://blog.csdn.net/2301_76904503
+
+### 📱 WeChat Official Account | 微信公众号
+
+欢迎关注我的微信公众号，分享技术实践、学术阅读与学习笔记。
+
+<img src="qrcode_for_gh_5c9a07397555_258.png" alt="微信公众号二维码" width="160">
+
+*微信扫码关注*
 
 ---
 
